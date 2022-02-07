@@ -9,16 +9,16 @@ IDE: Netbeans IDE 8.2
 
 The bank has 4 account types
 
-- Saving:
+- Saving:<br>
 Interest calculated daily.
 
-- Cheque:
+- Cheque:<br>
 Higher interest than Saving, which calculated monthly.
 
-- Net-saver:
+- Net-saver:<br>
 It does not offer any interest, but it does not have daily withdrawal limit same as Fixed account, which calculated base on contract period. 
 
-- Fixed:
+- Fixed:<br>
 Customer who withdraws from Fixed account before the due date, will not get any interest. 
 
 ---
